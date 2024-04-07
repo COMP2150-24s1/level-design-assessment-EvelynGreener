@@ -50,7 +50,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Spikes
-(DocImages/storyboarding comp2150 spikes.png)
+(DocImages/storyboarding_comp2150_spikes.png)
 I first introduced spikes as an idea to the player just off the path of where they want to go. This introduces the player an idea of environmental factors that could hurt them without actually hurting them first. 
 
 ### 2.2. Passthrough Platforms
