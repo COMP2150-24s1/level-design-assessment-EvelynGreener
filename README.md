@@ -33,12 +33,14 @@ What are the main challenges? How have you designed and balanced these challenge
 
 The first area is rather enclosed, boxing the player in tight spaces. The player jumps into an underground section after starting in a space they can see out to the skybox behind them. When they finish this section, they climb out into the open air which they saw as they first entered the level, briefly seeing the world around them and the structure of a dungeon above/around them. They get to wander the open for a little, before being able to climb into the dungeon which provides a vastly different space for them to explore- open rooms with flat structure, as opposed to the dirt cave they were in previously. I used an area shift such as this to help create a break in the intensity curve, and give the player a sense of curiosity as they see a new space to explore. The dungeon stays mostly the same, with an edition of a labyrinth at the end with items around it such as health pickups to encourage the player to explore it before they find the end.
 
-
-
 As stated in 1.1, I broke out the challenges into three main sections to test the player on certain skills they pick up throughout the level. It helps to space out the challenge instead of having it all presented at once, and clearly gives the player challenges related to the skills they’ve progressed the area with to achieve a better flow. The last area of the level is supposed to challenge the use of movement, staff, and gun skills together, sort of morphing together previous challenges before the player aquires a key throughout earlier sections of the level to finish it off with a higher spike in the difficulty after gradual increase. 
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+The first area is rather enclosed, boxing the player in tight spaces. The player jumps into an underground section after starting in a space they can see out to the skybox behind them. When they finish this section, they climb out into the open air which they saw as they first entered the level, briefly seeing the world around them and the structure of a dungeon above/around them. They get to wander the open for a little, before being able to climb into the dungeon which provides a vastly different space for them to explore- open rooms with flat structure, as opposed to the dirt cave they were in previously. I used an area shift such as this to help create a break in the intensity curve, and give the player a sense of curiosity as they see a new space to explore. The dungeon stays mostly the same, with an edition of a labyrinth at the end with items around it such as health pickups to encourage the player to explore it before they find the end.
+
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
