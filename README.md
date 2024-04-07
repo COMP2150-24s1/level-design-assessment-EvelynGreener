@@ -120,7 +120,7 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 My level design underwent a few changes, this being the first rough design on paper. 
-![Initial paper design of the level](DocImages/InitialDesign.png)
+![Initial paper design of the level](DocImages/firstdesign.png)
 This first design on paper had a similar structure, but a different design. The tunnels had a roughly similar shape, but underwent a few changes to get to the final draft, and the same is to be said about the dungeon layers. I originally had the exit door in the centre of the level, so the player could catch a glimpse of it as they passed, however I later moved it to the top right side of the level to balance out section two and three better. I scrapped this design because it wasn't really designed with dramatic pacing in mind, and flowed rather poorly compared to my final design. The initial design also had rather large spaces which would be rather difficult for Ellen to see around in as to where to go or collect items. Making smaller and more deliberate spaces allowed me to have better control over a longer dramatic arc over time, and in roughly the same amount of space create a longer level for the player to complete. 
 
 I then later changed it, and this is the final map i settled on which I used in designing and also the annotated level maps. 
