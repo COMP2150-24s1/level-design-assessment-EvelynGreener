@@ -48,7 +48,7 @@ How does your level design facilitate autonomy and invite the player to explore?
 
 The first area is rather enclosed, boxing the player in tight spaces. The player jumps into an underground section after starting in a space they can see out to the skybox behind them. When they finish this section, they climb out into the open air which they saw as they first entered the level, briefly seeing the world around them and the structure of a dungeon above/around them. They get to wander the open for a little, before being able to climb into the dungeon which provides a vastly different space for them to explore- open rooms with flat structure, as opposed to the dirt cave they were in previously. I used an area shift such as this to help create a break in the intensity curve, and give the player a sense of curiosity as they see a new space to explore. The dungeon stays mostly the same, with an edition of a labyrinth at the end with items around it such as health pickups to encourage the player to explore it before they find the end.
 Example:the similar and familiar sky background found in the start, and when the player leaves the caves
-![level start and outside of caves](DocImages/exploration.png)
+![level start and outside of caves](DocImages/openings.png)
 
 
 ## 2. Core Gameplay (~400 words)
