@@ -121,7 +121,7 @@ No additional words are necessary for this section (any words should only be wit
 ![Annotated level map for section two](DocImages/annotated2.png)
 
 ### 3.4.	Level Map – Section 3
-
+![Annotated level map for section three](DocImages/annotated3.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
@@ -129,11 +129,13 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 My level design underwent a few changes, this being the first rough design on paper. 
+
 ![Initial paper design of the level](DocImages/firstdesign.webp)
 
 This first design on paper had a similar structure, but a different design. The tunnels had a roughly similar shape, but underwent a few changes to get to the final draft, and the same is to be said about the dungeon layers. I originally had the exit door in the centre of the level, so the player could catch a glimpse of it as they passed, however I later moved it to the top right side of the level to balance out section two and three better. I scrapped this design because it wasn't really designed with dramatic pacing in mind, and flowed rather poorly compared to my final design. The initial design also had rather large spaces which would be rather difficult for Ellen to see around in as to where to go or collect items. Making smaller and more deliberate spaces allowed me to have better control over a longer dramatic arc over time, and in roughly the same amount of space create a longer level for the player to complete. 
 
 I then later changed it, and this is the final map i settled on which I used in designing and also the annotated level maps. 
+
 ![Level map layout final](DocImages/levelmap.png)
 
 When I also initially began creating the level with the tilemap, I accidently made the level far too large and got about 1/3 of the way in before I playtested it, realising that Ellen couldn't see most of the map around her or jump high enough for areas and challenges. I scrapped this, and remade it to be on a smaller scale so the player can have better control over their movements by extension of actually being able to see where they’re going. Doing so forced me to make small changes to the very start of the level to speed up the progress where Ellen learns jumping movements, where the collision tiles are a lot more refined than shown in the annotated level maps and there were a few less challenges for her to face so the level didnt drag too far to the right, which is something I didn’t really want. 
