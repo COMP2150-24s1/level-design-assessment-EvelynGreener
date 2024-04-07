@@ -55,33 +55,43 @@ You should restructure the headings below to match the order they appear in your
 I first introduced spikes as an idea to the player just off the path of where they want to go. This introduces the player an idea of environmental factors that could hurt them without actually hurting them first. 
 
 ### 2.2. Passthrough Platforms
+![storyboard passthrough platforms](DocImages/passthrough.png)
 The first passthrough platform is low stakes, falling onto a checkpoint. This was to get the player deeper into the level, and after the checkpoint theres higher stakes passthrough platforms for the player to choose between to progress further. 
 
 ### 2.3. Checkpoints
+![storyboard checkpoints](DocImages/checkpoints.png)
 I put a first checkpoint after the first initial spike, to tell the player they can save their progress after they learn that they can get damaged by the environment.
 
 ### 2.4. Acid
+![storyboard acid](DocImages/acid.png)
 One of the passthrough platforms will drop onto acid if the player cannot act quickly. The player will also be able to see this acid even if they dropped through the safe platform, to warn the player before it becomes a greater threat with the parkour. 
 
 ### 2.5. Health Pickups
+![storyboard health pickups](DocImages/health.png)
 The first health pickup is just after the passthrough platform with the acid, in case the player chose the wrong platform- giving them space to make a mistake and have a learning opportunity. 
 
 ### 2.6. Moving Platforms
+![storyboard moving platforms](DocImages/moving.png)
 The first moving platform is over a gap, where the player simply has to walk on and jump up off the platform. This is low stakes, compared to the parkour section with platforms as they get higher. 
 
 ### 2.7. Keys
+![storyboard keys](DocImages/keys.png)
 The first key is in a little enclave with spikes to give the player some risk. I hoped the spikes will tell the player this item they see above them is important, and will challenge themself to pick it up. 
 
 ### 2.8. Weapon Pickup (Staff)
+![storyboard weapon pick up staff](DocImages/staff.png)
 The staff is the first item the player sees and picks up when they reach the dungeon, only given after the player crawled out of the cave. 
 
 ### 2.9. Chompers
+![storyboard chompers](DocImages/chomper.png)
 The first chomper is right in front of a breakable column, in front of the staff pick up. I did this so the column will keep the chomper away from the player, and the player will accidentally break the column when they try to attack the chomper, telling the player they can break columns to move past them. 
 
 ### 2.10. Weapon Pickup (Gun)
+![storyboard weapon pick up gun](DocImages/gun.png)
 The gun is after a few chomper and staff related challenges, so the player tries some close combat before they get the gun. Having the staff beforehand also gives the player a second option to use their staff if the spitter gets too close to the player. 
 
 ### 2.11. Spitters
+![storyboard spitters](DocImages/spitter.png)
 Spitters are more difficult than chompers, so I only introduced them after the chompers as their spit does tend to clip through the floor and hurt the player which provides an extra level of complexity to the dungeon, so it made the most sense to put them as the last encounter in the level. 
 
 
@@ -91,36 +101,40 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![Molecule diagram for section one](DocImages/Molecule1.png)
+![Molecule diagram for section two](DocImages/Molecule2.png)
+![Molecule diagram for section three](DocImages/Molecule3.png)
 
 ### 3.2. Level Map – Section 1
+![Annotated level map for section one](DocImages/annotated1.png)
 
 ### 3.3.	Level Map – Section 2
+![Annotated level map for section two](DocImages/annotated2.png)
 
 ### 3.4.	Level Map – Section 3
+![Annotated level map for section three](DocImages/annotated3.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+My level design underwent a few changes, this being the first rough design on paper. 
+![Initial paper design of the level](DocImages/InitialDesign.png)
+This first design on paper had a similar structure, but a different design. The tunnels had a roughly similar shape, but underwent a few changes to get to the final draft, and the same is to be said about the dungeon layers. I originally had the exit door in the centre of the level, so the player could catch a glimpse of it as they passed, however I later moved it to the top right side of the level to balance out section two and three better. I scrapped this design because it wasn't really designed with dramatic pacing in mind, and flowed rather poorly compared to my final design. The initial design also had rather large spaces which would be rather difficult for Ellen to see around in as to where to go or collect items. Making smaller and more deliberate spaces allowed me to have better control over a longer dramatic arc over time, and in roughly the same amount of space create a longer level for the player to complete. 
+
+I then later changed it, and this is the final map i settled on which I used in designing and also the annotated level maps. 
+![Level map layout final](DocImages/levelmap.png)
+
+When I also initially began creating the level with the tilemap, I accidently made the level far too large and got about 1/3 of the way in before I playtested it, realising that Ellen couldn't see most of the map around her or jump high enough for areas and challenges. I scrapped this, and remade it to be on a smaller scale so the player can have better control over their movements by extension of actually being able to see where they’re going. Doing so forced me to make small changes to the very start of the level to speed up the progress where Ellen learns jumping movements, where the collision tiles are a lot more refined than shown in the annotated level maps and there were a few less challenges for her to face so the level didnt drag too far to the right, which is something I didn’t really want. 
+
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
 An example has been included. Please replace this with any actual tools, and add more as necessary.
 
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
+N/A
+No AI tools were used. 
 
 
