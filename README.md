@@ -22,11 +22,17 @@ Outline and justify how your level design facilitates the core player experience
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
 I broke my level into roughly three main sections, all designed with learning objectives in mind. The first section is the start, where I start by introducing the player to minor movement challenges, and slowly start adding environmental factors for them to navigate. I started this by adding spikes in a place the player is likely going to see but never going to walk into, before I put them in places the player may actually get hurt by. I also introduced the first checkpoint to the player by having them drop down and fall onto it, so that they won't miss it and will immediately figure out what it is. The first section is only supposed to introduce the player to environment related obstacles, giving them a relatively low stress environment in comparison to later areas. The second area introduces the player to the staff and has chompers for the player to kill, and then later in the second area the player is given a gun to learn against spitters. The last section is mainly to test the players' learning and have them learn to use all skills together. 
+Example: staff beside pillar a chomper hides behind.
+![staff beside pillar a chomper hides behind](DocImages/discoveryattack.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 The intensity of the level mainly increases throughout the level, with a few notable rest points for the player. The player starts out in a room just off the level to have them drop into the level, the first section relatively low on the intensity level but gradually increasing to the end of the section. There is a rest period as they climb into the dungeon, with no dangers around them as they walk out in the open before climbing up into the dungeon. The player is introduced to the staff, and given some low-stakes challenges before being tested to acquire the key, then is given the gun in a similar manner. Having the player fight enemies here instead of just navigating their environment gives a higher baseline of tension that i chose not to give them in the first section in order for the difficulty curve to increase in a way that made sense. There is only a short break before going into the third section, not giving the player much time to relax before they having to navigate all challenges at once. After this section, there is 2 empty hallways for the player to walk through to decrease the intensity over time before they approach the door, finishing the level. 
+Example: Two areas designed to be relatively low stakes
+![low intensity area between section one and the start of section two](DocImages/lowerintensity.png)
+![hallway to the end door](DocImages/enddoor.png)
+
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
@@ -34,12 +40,15 @@ What are the main challenges? How have you designed and balanced these challenge
 The first area is rather enclosed, boxing the player in tight spaces. The player jumps into an underground section after starting in a space they can see out to the skybox behind them. When they finish this section, they climb out into the open air which they saw as they first entered the level, briefly seeing the world around them and the structure of a dungeon above/around them. They get to wander the open for a little, before being able to climb into the dungeon which provides a vastly different space for them to explore- open rooms with flat structure, as opposed to the dirt cave they were in previously. I used an area shift such as this to help create a break in the intensity curve, and give the player a sense of curiosity as they see a new space to explore. The dungeon stays mostly the same, with an edition of a labyrinth at the end with items around it such as health pickups to encourage the player to explore it before they find the end.
 
 As stated in 1.1, I broke out the challenges into three main sections to test the player on certain skills they pick up throughout the level. It helps to space out the challenge instead of having it all presented at once, and clearly gives the player challenges related to the skills they’ve progressed the area with to achieve a better flow. The last area of the level is supposed to challenge the use of movement, staff, and gun skills together, sort of morphing together previous challenges before the player aquires a key throughout earlier sections of the level to finish it off with a higher spike in the difficulty after gradual increase. 
+Example: a more challenging end area with multiple skills tested at once
+![section three, more challenging area](DocImages/difficulty.png)
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
 The first area is rather enclosed, boxing the player in tight spaces. The player jumps into an underground section after starting in a space they can see out to the skybox behind them. When they finish this section, they climb out into the open air which they saw as they first entered the level, briefly seeing the world around them and the structure of a dungeon above/around them. They get to wander the open for a little, before being able to climb into the dungeon which provides a vastly different space for them to explore- open rooms with flat structure, as opposed to the dirt cave they were in previously. I used an area shift such as this to help create a break in the intensity curve, and give the player a sense of curiosity as they see a new space to explore. The dungeon stays mostly the same, with an edition of a labyrinth at the end with items around it such as health pickups to encourage the player to explore it before they find the end.
-
+Example:the similar and familiar sky background found in the start, and when the player leaves the caves
+![level start and outside of caves](DocImages/openings.png)
 
 
 ## 2. Core Gameplay (~400 words)
@@ -120,10 +129,13 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 My level design underwent a few changes, this being the first rough design on paper. 
+
 ![Initial paper design of the level](DocImages/firstdesign.webp)
+
 This first design on paper had a similar structure, but a different design. The tunnels had a roughly similar shape, but underwent a few changes to get to the final draft, and the same is to be said about the dungeon layers. I originally had the exit door in the centre of the level, so the player could catch a glimpse of it as they passed, however I later moved it to the top right side of the level to balance out section two and three better. I scrapped this design because it wasn't really designed with dramatic pacing in mind, and flowed rather poorly compared to my final design. The initial design also had rather large spaces which would be rather difficult for Ellen to see around in as to where to go or collect items. Making smaller and more deliberate spaces allowed me to have better control over a longer dramatic arc over time, and in roughly the same amount of space create a longer level for the player to complete. 
 
 I then later changed it, and this is the final map i settled on which I used in designing and also the annotated level maps. 
+
 ![Level map layout final](DocImages/levelmap.png)
 
 When I also initially began creating the level with the tilemap, I accidently made the level far too large and got about 1/3 of the way in before I playtested it, realising that Ellen couldn't see most of the map around her or jump high enough for areas and challenges. I scrapped this, and remade it to be on a smaller scale so the player can have better control over their movements by extension of actually being able to see where they’re going. Doing so forced me to make small changes to the very start of the level to speed up the progress where Ellen learns jumping movements, where the collision tiles are a lot more refined than shown in the annotated level maps and there were a few less challenges for her to face so the level didnt drag too far to the right, which is something I didn’t really want. 
